@@ -1,7 +1,7 @@
 ﻿1. Install VS code and add some extentions
     Simple React by Burke Holland
     Prettier - Code formatter by Esben Petersen
-        “editor.formateOnSave”: true,
+        "editor.formatOnSave": true,
 2. Update npm
         sudo npm cache clean -f
         sudo npm install -g n
