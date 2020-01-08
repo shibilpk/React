@@ -18,3 +18,5 @@
         sudo install
         sudo npm install
         sudo npm start
+8. Permission
+    sudo chown -R 1000:1000 "/home/muhsin/.npm"
